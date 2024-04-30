@@ -1,0 +1,11 @@
+﻿  4laba4.cpp
+C:\Users\Eldar\source\repos\4laba4\4laba4\4laba4.cpp(1,1): warning C4005: __CLR_VER: изменение макроопределения
+  (компиляция исходного файла "/4laba4.cpp")
+  C:\Users\Eldar\source\repos\4laba4\4laba4\4laba4.cpp(1,1):
+  "__CLR_VER" ранее объявлен в командной строке
+  
+C:\Users\Eldar\source\repos\4laba4\4laba4\4laba4.cpp(1,1): warning C4651: параметр "/D__CLR_VER=40809181" указан для предкомпилированного заголовка, но не для текущей компиляции
+  (компиляция исходного файла "/4laba4.cpp")
+  
+  4laba4.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  4laba4.vcxproj -> C:\Users\Eldar\source\repos\4laba4\x64\Debug\4laba4.exe
